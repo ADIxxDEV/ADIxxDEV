@@ -339,7 +339,7 @@ Other        ██████████░░░░░░░░░░░░�
 
 ### 📬 **Reach Out**
 <p>
-  <a href="mailto:ADIxxDEV@gmail.com">
+  <a href="mailto:techdesh5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
   <a href="https://linkedin.com/in/ADIxxDEV">
